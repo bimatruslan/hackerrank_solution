@@ -5,6 +5,6 @@
 This repository consist of code solution that I made from the hacckerank Problems.
 
 List of problems that I have done :
-* Activate Traders
+* Activate Traders ( Basic Problem Solving Certification Question)
     - I have managed to successfully run test case 0 - test case 11 in the Hacckerank Basic Problem Solving Certification
     - I need to learn how to optimize the solution that I have made to run test case 12 - test case 15.
