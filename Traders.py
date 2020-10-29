@@ -1,5 +1,3 @@
-Hackerank basic problem solving test
-no 1 Activate Traders
 #!/bin/python3
 
 import math
